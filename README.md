@@ -1,4 +1,25 @@
 # ns3
 Foi usado a instalação me baseando nosite oficial: https://www.nsnam.org/docs/release/3.48/installation/html/index.html
 Foi usado Lubuntu lubuntu-26.04.1 e ns-3.48
+O NS3 foi apresentado a mim no meu curso CST de Redes de Computadores.
+Resolvi seguir os passos usando uma versão mais recente do lubuntu e do próprio ns3.
+Visto que no material da faculdade tratava das versões mais antigas do simulador e ainda havia uso da ferramenta bake (já não é mais usada)
 Download via tarball
+Além disso para execução dos script segui o pdf  ns-3-tutorial
+
+De inicio já inicie o update e upgrade para atualizar o sistema.
+
+
+<img width="1920" height="970" alt="Update e Upgrade" src="https://github.com/user-attachments/assets/9be1ccc8-a825-4029-b4ec-2a417a8bf06f" />
+
+Construção do NS3
+<img width="1918" height="946" alt="build" src="https://github.com/user-attachments/assets/d8481c32-e983-47ea-85c4-a77e65ba3fa7" />
+
+Rodando teste
+<img width="1874" height="952" alt="test" src="https://github.com/user-attachments/assets/03b1a3d7-edeb-4db5-97c6-64fe8e380164" />
+
+Executando scripts hello-simulator.cc
+<img width="1912" height="974" alt="Hello simulator" src="https://github.com/user-attachments/assets/755defeb-3aee-43f5-a4b0-705aff4c3a3d" />
+ e first.cc
+
+ <img width="1918" height="975" alt="first cc" src="https://github.com/user-attachments/assets/b6e99b95-b311-408e-84da-d59c98831d0d" />
