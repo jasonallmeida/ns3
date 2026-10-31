@@ -24,3 +24,10 @@ Executando scripts hello-simulator.cc
  e first.cc
 
  <img width="1918" height="975" alt="first cc" src="https://github.com/user-attachments/assets/b6e99b95-b311-408e-84da-d59c98831d0d" />
+
+
+ #Configuração NetAnim
+Precisei instalar o Mercurial
+No meu caso copiei o first.cc da pasta examples e joguei para pasta scratch e nomeei ele para myfirst.cc
+segui os procedimentos no site: https://www.nsnam.org/wiki/NetAnim_3.108#Prerequisites para fazer a edição do myfirst.cc
+executei o comando ./ns3 run 
