@@ -1,4 +1,5 @@
-# ns3
+# Simulador de redes ns-3
+O ns-3 me foi apresentado no meu curso de Tecnologia em Redes de Computadores
 Usei os materiais disponíveis no site oficial do NSNAM para fazer a instalação e configuração do NS3:<https://www.nsnam.org/docs/release/3.48/installation/html/index.html>.
 Foi usado a instalação me baseando nosite oficial: https://www.nsnam.org/docs/release/3.48/installation/html/index.html
 Foi usado Lubuntu lubuntu-26.04.1 e ns-3.48
