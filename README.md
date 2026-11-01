@@ -16,7 +16,7 @@ De inicio já inicie o update e upgrade para atualizar o sistema.
 Construção do NS3
 <img width="1918" height="946" alt="build" src="https://github.com/user-attachments/assets/d8481c32-e983-47ea-85c4-a77e65ba3fa7" />
 
-Rodando teste
+Teste de instalação das unidades do NS-3
 <img width="1874" height="952" alt="test" src="https://github.com/user-attachments/assets/03b1a3d7-edeb-4db5-97c6-64fe8e380164" />
 
 Executando scripts hello-simulator.cc
