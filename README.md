@@ -52,3 +52,6 @@ Vai ser criado um arquivo .xml da animação, no meu caso nomeei como animation.
 #Executando o .xml
 Acessar a pasta de instalação do netanim pelo Terminal e excutar ./NetAnim para abrir o programa
 depois só procurar pelo .xml e importar para visualizar a animação
+
+Abrindo o .xml no NetAnim
+<img width="1920" height="971" alt="xml myfirst cc" src="https://github.com/user-attachments/assets/ef5add71-b9fd-4c36-b561-da6cacb71b32" />
