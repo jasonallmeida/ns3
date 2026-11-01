@@ -40,9 +40,11 @@ qmake NetAnim.pro
 make
 
  #Configuração NetAnim
-
+O procedimento 
 No meu caso copiei o first.cc da pasta examples e joguei para pasta scratch e nomeei ele para myfirst.cc
-depois executei o comando ./ns3 run myfirst.cc
+O procedimento de edição feito no arquivo myfisrt.cc está no site https://www.nsnam.org/wiki/NetAnim_3.108#Prerequisites
+
+depois editado executei o comando ./ns3 run myfirst.cc
 
 Vai ser criado um arquivo .xml da animação, no meu caso nomeei como animation.xml
 
