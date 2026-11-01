@@ -26,8 +26,21 @@ Executando scripts hello-simulator.cc
  <img width="1918" height="975" alt="first cc" src="https://github.com/user-attachments/assets/b6e99b95-b311-408e-84da-d59c98831d0d" />
 
 
+#Instalação dos pacotes para rodar o net anim
+sudo apt install qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools
+
+#DoDownloading NetAnim
+Primeiro instalar o mercurial: sudo apt install mercurial
+Depois hg clone http://code.nsnam.org/netanim
+
+#Building and Starting NetAnim
+cd netanim
+make clean
+qmake NetAnim.pro
+make
+
  #Configuração NetAnim
-Precisei instalar o Mercurial
+Pr
 No meu caso copiei o first.cc da pasta examples e joguei para pasta scratch e nomeei ele para myfirst.cc
 segui os procedimentos no site: https://www.nsnam.org/wiki/NetAnim_3.108#Prerequisites para fazer a edição do myfirst.cc
 executei o comando ./ns3 run 
