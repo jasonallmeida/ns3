@@ -29,7 +29,7 @@ Executando scripts hello-simulator.cc
 # Instalação dos pacotes para rodar o net anim
 `sudo apt install qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools`
 
-#Downloading NetAnim
+# Downloading NetAnim
 Primeiro instalar o mercurial: sudo apt install mercurial
 Depois hg clone http://code.nsnam.org/netanim
 
