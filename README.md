@@ -29,7 +29,7 @@ Executando scripts hello-simulator.cc
 #Instalação dos pacotes para rodar o net anim
 sudo apt install qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools
 
-#DoDownloading NetAnim
+#Downloading NetAnim
 Primeiro instalar o mercurial: sudo apt install mercurial
 Depois hg clone http://code.nsnam.org/netanim
 
@@ -40,7 +40,12 @@ qmake NetAnim.pro
 make
 
  #Configuração NetAnim
-Pr
+
 No meu caso copiei o first.cc da pasta examples e joguei para pasta scratch e nomeei ele para myfirst.cc
-segui os procedimentos no site: https://www.nsnam.org/wiki/NetAnim_3.108#Prerequisites para fazer a edição do myfirst.cc
-executei o comando ./ns3 run 
+depois executei o comando ./ns3 run myfirst.cc
+
+Vai ser criado um arquivo .xml da animação, no meu caso nomeei como animation.xml
+
+#Executando o .xml
+Acessar a pasta de instalação do netanim pelo Terminal e excutar ./NetAnim para abrir o programa
+depois só procurar pelo .xml e importar para visualizar a animação
