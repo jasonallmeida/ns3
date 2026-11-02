@@ -17,7 +17,10 @@ Para as versões do ns-3.36 e posteriores, precisei instalar os seguintes pacote
 `sudo apt install clang-format clang-tidy`\
 `gdb valgrind`
 
+Site de referência: https://www.nsnam.org/docs/release/3.48/installation/html/linux.html#requirements
+
 # Download via tarball
+Agora vou baixar o arquivo compactado do ns-3 que contém todos os arquivos necessários.
 ```
 cd 
 mkdir tarballs
