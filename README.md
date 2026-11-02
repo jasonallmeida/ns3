@@ -9,10 +9,13 @@ Antes de começar a fazer a instalação do NS-3, atualizei o sistema como um to
 sudo apt updade
 sudo apt upgrade
 ```
-# Requisitos
-Para as versões do ns-3.36 e posteriores, instalar os seguintes pacotes:
-`sudo apt install g++ python3 cmake ninja-build git`
 
+# Requisitos
+Para as versões do ns-3.36 e posteriores, precisei instalar os seguintes pacotes:
+`sudo apt install g++ python3 cmake ninja-build git`
+`sudo apt install ccache`
+`sudo apt install clang-format clang-tidy`
+`gdb valgrind`
 # Download via tarball
 ```
 cd 
