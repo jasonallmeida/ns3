@@ -4,7 +4,7 @@ Resolvi usar o Lubuntu 26.04 e o ns-3.48. Visto que o material do meu curso usou
 
 # Download do simulador via tarball
 Usei os materiais disponíveis no site oficial do NSNAM para fazer a instalação e configuração do NS3:<https://www.nsnam.org/docs/release/3.48/installation/html/index.html>.
-Foi usado a instalação me baseando nosite oficial: <https://www.nsnam.org/docs/release/3.48/installation/html/index.html>
+Foi usado a instalação me baseando nosite oficial: <https://www.nsnam.org/docs/release/3.48/installation/html/index.html>\
 `cd `\
 `mkdir tarballs`\
 `cd tarballs`\
