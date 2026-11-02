@@ -3,18 +3,21 @@ O ns-3 me foi apresentado no meu curso de Tecnologia em Redes de Computadores da
 Resolvi usar o Lubuntu 26.04 e o ns-3.48 em uma VM do VirtualBox. Visto que o material do meu curso usou versões bem mais antigas tanto do Linux quanto do ns-3, e ainda abordou sobre ferramenta Bake que já não é mais usada para isso.
 
 # Atualização do sistema
+```
 sudo apt updade
 sudo apt upgrade
+```
 
 # Download via tarball
-
+```
 cd 
 mkdir tarballs
 cd tarballs
 wget http://www.nsnam.org/release/ns-allinone-3.48.tar.bz2
 tar xjf ns-allinone-3.48.tar.bz2
+```
 
-Além disso para execução dos script segui o pdf  ns-3-tutorial
+Além disso para execução dos script segui o pdf  `ns-3-tutorial`
 
 De inicio já inicie o update e upgrade para atualizar o sistema.
 
@@ -42,10 +45,10 @@ Primeiro instalar o mercurial: sudo apt install mercurial
 Depois hg clone http://code.nsnam.org/netanim
 
 # Building and Starting NetAnim
-cd netanim
+`cd netanim
 make clean
 qmake NetAnim.pro
-make
+make`
 
 # Configuração NetAnim
 O procedimento 
@@ -56,8 +59,8 @@ depois editado executei o comando ./ns3 run myfirst.cc
 
 Vai ser criado um arquivo .xml da animação, no meu caso nomeei como animation.xml
 
-#Executando o .xml
-Acessar a pasta de instalação do netanim pelo Terminal e excutar ./NetAnim para abrir o programa
+# Executando o .xml
+Acessar a pasta de instalação do Netanim pelo Terminal e excutar ./NetAnim para abrir o programa
 depois só procurar pelo .xml e importar para visualizar a animação
 
 Abrindo o .xml no NetAnim
