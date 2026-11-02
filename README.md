@@ -6,8 +6,6 @@ Resolvi usar o Lubuntu 26.04 e o ns-3.48. Visto que o material do meu curso usou
 Usei os materiais disponíveis no site oficial do NSNAM para fazer a instalação e configuração do NS3:<https://www.nsnam.org/docs/release/3.48/installation/html/index.html>.
 Foi usado a instalação me baseando nosite oficial: https://www.nsnam.org/docs/release/3.48/installation/html/index.html
 Foi usado Lubuntu lubuntu-26.04.1 e ns-3.48
-O NS3 foi apresentado a mim no meu curso CST de Redes de Computadores.
-Resolvi seguir os passos usando uma versão mais recente do lubuntu e do próprio ns3.
 
 Além disso para execução dos script segui o pdf  ns-3-tutorial
 
