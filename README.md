@@ -3,8 +3,10 @@ O ns-3 me foi apresentado no meu curso de Tecnologia em Redes de Computadores da
 Resolvi usar o Lubuntu 26.04 e o ns-3.48 em uma VM do VirtualBox. Visto que o material do meu curso usou versões bem mais antigas tanto do Linux quanto do ns-3, e ainda abordou sobre ferramenta Bake que já não é mais usada para isso.
 
 # Atualização do sistema
-`sudo apt updade`  
-`sudo apt upgrade`  
+```
+sudo apt updade
+sudo apt upgrade
+```
 
 # Download via tarball
 
