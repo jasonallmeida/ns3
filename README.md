@@ -67,5 +67,5 @@ Abrindo o .xml no NetAnim
 <img width="1920" height="971" alt="xml myfirst cc" src="https://github.com/user-attachments/assets/ef5add71-b9fd-4c36-b561-da6cacb71b32" />
 
 # Sites
-https://www.nsnam.org/docs/release/3.48/installation/html/index.html /
+https://www.nsnam.org/docs/release/3.48/installation/html/index.html \
 https://www.nsnam.org/wiki/NetAnim_3.108#Prerequisites
