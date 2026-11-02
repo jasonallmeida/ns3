@@ -9,6 +9,7 @@ Antes de começar a fazer a instalação do NS-3, atualizei o sistema como um to
 sudo apt updade
 sudo apt upgrade
 ```
+<img width="1920" height="970" alt="Update e Upgrade" src="https://github.com/user-attachments/assets/9be1ccc8-a825-4029-b4ec-2a417a8bf06f" />
 
 # Requisitos
 Para as versões do ns-3.36 e posteriores, precisei instalar os seguintes pacotes:\
@@ -30,11 +31,6 @@ tar xjf ns-allinone-3.48.tar.bz2
 ```
 
 Além disso para execução dos script segui o pdf  `ns-3-tutorial`
-
-De inicio já inicie o update e upgrade para atualizar o sistema.
-
-
-<img width="1920" height="970" alt="Update e Upgrade" src="https://github.com/user-attachments/assets/9be1ccc8-a825-4029-b4ec-2a417a8bf06f" />
 
 # Construção do NS-3
 <img width="1918" height="946" alt="build" src="https://github.com/user-attachments/assets/d8481c32-e983-47ea-85c4-a77e65ba3fa7" />
