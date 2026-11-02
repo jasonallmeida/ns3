@@ -11,7 +11,7 @@ sudo apt upgrade
 ```
 # Requisitos
 Para as versões do ns-3.36 e posteriores, instalar os seguintes pacotes:
-`sudo apt install g++ python3 cmake ninja-build git``
+`sudo apt install g++ python3 cmake ninja-build git`
 
 # Download via tarball
 ```
