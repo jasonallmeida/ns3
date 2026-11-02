@@ -38,13 +38,14 @@ Dentro da pasta descompactada do ns-3 rodar os seguintes comandos
 `./ns3 build`\
 <img width="1918" height="975" alt="first cc" src="https://github.com/user-attachments/assets/b6e99b95-b311-408e-84da-d59c98831d0d" />
 `./test.py`\
-<img width="1918" height="946" alt="build" src="https://github.com/user-attachments/assets/d8481c32-e983-47ea-85c4-a77e65ba3fa7" />
+
 
 # Teste de instalação das unidades do NS-3
 
 
 # Testando o script hello-simulator.cc e first.cc
 <img width="1912" height="974" alt="Hello simulator" src="https://github.com/user-attachments/assets/755defeb-3aee-43f5-a4b0-705aff4c3a3d" />
+<img width="1918" height="946" alt="build" src="https://github.com/user-attachments/assets/d8481c32-e983-47ea-85c4-a77e65ba3fa7" />
 
 # Instalação dos pacotes para rodar o NetAnim
 `sudo apt install qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools`
