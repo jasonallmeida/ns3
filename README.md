@@ -7,7 +7,6 @@ Usei os materiais disponíveis no site oficial do NSNAM para fazer a instalaçã
 Foi usado a instalação me baseando nosite oficial: <https://www.nsnam.org/docs/release/3.48/installation/html/index.html>
 
 `cd `
-
 `mkdir tarballs`
 `cd tarballs`
 `wget http://www.nsnam.org/release/ns-allinone-3.48.tar.bz2`
