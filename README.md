@@ -9,6 +9,7 @@ Antes de começar a fazer a instalação do NS-3, atualizei o sistema como um to
 sudo apt updade
 sudo apt upgrade
 ```
+
 <img width="1920" height="970" alt="Update e Upgrade" src="https://github.com/user-attachments/assets/9be1ccc8-a825-4029-b4ec-2a417a8bf06f" />
 
 # Requisitos
