@@ -64,7 +64,8 @@ Depois
 
 # Configuração NetAnim
 O procedimento 
-No meu caso copiei o first.cc da pasta examples e joguei para pasta scratch e nomeei ele para myfirst.cc
+No meu caso copiei o first.cc da pasta examples e joguei para pasta scratch e nomeei ele para myfirst.cc.
+Após isso editei o myfirst.cc colocando a linha no cabeçalho do código #include "ns3/netanim-module.h" e 
 O procedimento de edição feito no arquivo myfisrt.cc está no site https://www.nsnam.org/wiki/NetAnim_3.108#Prerequisites
 
 depois editado executei o comando `./ns3 run myfirst.cc`
