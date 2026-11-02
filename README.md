@@ -5,12 +5,11 @@ Resolvi usar o Lubuntu 26.04 e o ns-3.48. Visto que o material do meu curso usou
 # Download do simulador via tarball
 Usei os materiais disponíveis no site oficial do NSNAM para fazer a instalação e configuração do NS3:<https://www.nsnam.org/docs/release/3.48/installation/html/index.html>.
 Foi usado a instalação me baseando nosite oficial: <https://www.nsnam.org/docs/release/3.48/installation/html/index.html>
-
-`cd `
-`mkdir tarballs`
-`cd tarballs`
-`wget http://www.nsnam.org/release/ns-allinone-3.48.tar.bz2`
-`tar xjf ns-allinone-3.48.tar.bz2`
+`cd `\
+`mkdir tarballs`\
+`cd tarballs`\
+`wget http://www.nsnam.org/release/ns-allinone-3.48.tar.bz2`\
+`tar xjf ns-allinone-3.48.tar.bz2`\
 
 Além disso para execução dos script segui o pdf  ns-3-tutorial
 
