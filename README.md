@@ -38,11 +38,9 @@ Dentro da pasta descompactada do ns-3 rodar os seguintes comandos:\
 `./ns3 build`\
 <img width="1918" height="946" alt="build" src="https://github.com/user-attachments/assets/d8481c32-e983-47ea-85c4-a77e65ba3fa7" />
 `./test.py`\
+Teste de instalação das unidades do NS-3\
 <img width="1874" height="952" alt="test" src="https://github.com/user-attachments/assets/10d86a8b-3477-4017-9ff1-20ba668a85b5" />
-
-
-
-# Teste de instalação das unidades do NS-3
+ 
 
 
 # Testando o script hello-simulator.cc e first.cc
