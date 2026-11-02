@@ -1,6 +1,6 @@
 # Simulador de redes ns-3
 O ns-3 me foi apresentado no meu curso de Tecnologia em Redes de Computadores da minha faculdade.
-Resolvi usar o Lubuntu 26.04 e o ns-3.48. Visto que o material do meu curso usou versões bem mais antigas tanto do Linux quanto do ns-3, e ainda abordou sobre ferramenta Bake que já não é mais usada para isso.
+Resolvi usar o Lubuntu 26.04 e o ns-3.48 em uma VM do VirtualBox. Visto que o material do meu curso usou versões bem mais antigas tanto do Linux quanto do ns-3, e ainda abordou sobre ferramenta Bake que já não é mais usada para isso.
 
 # Download do simulador via tarball
 Usei os materiais disponíveis no site oficial do NSNAM para fazer a instalação e configuração do NS3:<https://www.nsnam.org/docs/release/3.48/installation/html/index.html>.
