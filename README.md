@@ -5,7 +5,7 @@ Resolvi usar o Lubuntu 26.04 e o ns-3.48 em uma VM do VirtualBox. Visto que o ma
 # Atualização do sistema
 Antes de começar a fazer a instalação do NS-3, atualizei o sistema como um todo.
 
-```
+``` bash
 sudo apt updade
 sudo apt upgrade
 ```
