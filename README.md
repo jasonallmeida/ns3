@@ -57,10 +57,10 @@ Depois
 `hg clone http://code.nsnam.org/netanim`
 
 # Building and Starting NetAnim
-`cd netanim
-make clean
-qmake NetAnim.pro
-make`
+`cd netanim`
+`make clean`
+`qmake NetAnim.pro`
+ make`
 
 # Configuração NetAnim
 O procedimento 
