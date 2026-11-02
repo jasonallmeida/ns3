@@ -9,7 +9,7 @@ Foi usado a instalação me baseando nosite oficial: <https://www.nsnam.org/docs
 `mkdir tarballs`\
 `cd tarballs`\
 `wget http://www.nsnam.org/release/ns-allinone-3.48.tar.bz2`\
-`tar xjf ns-allinone-3.48.tar.bz2`\
+`tar xjf ns-allinone-3.48.tar.bz2`
 
 Além disso para execução dos script segui o pdf  ns-3-tutorial
 
