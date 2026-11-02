@@ -12,7 +12,7 @@ sudo apt upgrade
 
 <img width="1920" height="970" alt="Update e Upgrade" src="https://github.com/user-attachments/assets/9be1ccc8-a825-4029-b4ec-2a417a8bf06f" />
 
-# Requisitos
+# Preparando o ambiente
 Para as versões do ns-3.36 e posteriores, precisei instalar os seguintes pacotes:
 
 ```
