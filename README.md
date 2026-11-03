@@ -12,7 +12,7 @@ sudo apt upgrade
 
 <img width="1920" height="970" alt="Update e Upgrade" src="https://github.com/user-attachments/assets/9be1ccc8-a825-4029-b4ec-2a417a8bf06f" />
 
-# Instalação dos pacotes para rodar o NS-3
+# Preparando o ambiente
 Para as versões do ns-3.36 e posteriores, precisei instalar os seguintes pacotes:
 
 ```
@@ -21,6 +21,9 @@ sudo apt install ccache`
 sudo apt install clang-format clang-tidy
 sudo apt install gdb valgrind
 ```
+Agora para rodar o NetAnim precisei instalar os pacotes:
+
+`sudo apt install qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools`
 
 Site de referência: https://www.nsnam.org/docs/release/3.48/installation/html/linux.html#requirements
 
@@ -53,7 +56,7 @@ Teste de instalação das unidades do NS-3\
 
 
 # Instalação dos pacotes para rodar o NetAnim
-`sudo apt install qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools`
+
 
 # Downloading NetAnim
 Primeiro instalar o mercurial: `sudo apt install mercurial`
