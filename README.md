@@ -52,16 +52,20 @@ Dentro da pasta descompactada do ns-3 rodar os seguintes comandos:
 <img width="1918" height="975" alt="first cc" src="https://github.com/user-attachments/assets/b6e99b95-b311-408e-84da-d59c98831d0d" />
 
 # Downloading NetAnim
+
 ```
 sudo apt install mercurial 
 hg clone http://code.nsnam.org/netanim
 ```
 
 # Building and Starting NetAnim
-`cd netanim`
-`make clean`
-`qmake NetAnim.pro`
- make`
+
+```
+cd netanim
+make clean
+qmake NetAnim.pro
+make
+```
 
 # Configuração NetAnim
 O procedimento 
