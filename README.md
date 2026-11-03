@@ -58,7 +58,7 @@ sudo apt install mercurial
 hg clone http://code.nsnam.org/netanim
 ```
 
-# Building and Starting NetAnim
+# Construindo e iniciando o NetAnim
 
 ```
 cd netanim
